@@ -39,7 +39,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 # ===================== KONFIGURATSIYA =====================
 BOT_TOKEN = "8592351467:AAG2PbGI4TLsluoNgoLD6cmZxrkILmM_pu0"
-GEMINI_API_KEY = "AIzaSyDv2IIYkEYgelNOFExkYK0Nu5g3v_fiYWw"
+GEMINI_API_KEY = "AIzaSyDYtVJnfyTcE2x00a_2nRiiCsLeIkyxWuk"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
 DB_PATH = "healthbot.db"
 
