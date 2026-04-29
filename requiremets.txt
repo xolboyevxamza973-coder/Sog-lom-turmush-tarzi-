@@ -1,4 +1,4 @@
-aiogram
-python-dotenv
-google-generativeai
-apscheduler
+protobuf~=5.29.6
+aiogram~=3.27.0
+reportlab~=4.4.10
+aiohttp~=3.13.5
